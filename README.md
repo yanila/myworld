@@ -1,5 +1,5 @@
 # myworld
-this is only for learning
+this for learning
 this is a c programe
 this is the slave branch
 changes made in slave branch by mmurareelal
